@@ -1,0 +1,21 @@
+### commends
+
+#1.
+https://www.wikihow.com/Create-and-Edit-Text-File-in-Linux-by-Using-Terminal
+#2.
+https://searchdatacenter.techtarget.com/tutorial/77-Linux-commands-and-utilities-youll-actually-use
+#3.
+https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+#4.
+https://stackoverflow.com/questions/1455988/commenting-in-a-bash-script
+#5.
+https://www.youtube.com/watch?v=knqw368RNXk
+#6.
+https://www.youtube.com/watch?v=2vrJ9UxxAGE
+##7.
+echo "# commends" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yalowe/commends.git
+git push -u origin master
